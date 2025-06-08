@@ -1,5 +1,7 @@
 # 📬 Formulaire de Contact - Next.js
 
+Je n’ai pas réussi à créer le Dockerfile, car Docker n’est pas installé sur la machine actuelle. Avec le temps limité dont je disposais, il m’a été difficile de le mettre en place. Je vous ai donc simplement préparé le fichier.
+
 ## ✨ Fonctionnalités
 
 - Formulaire de contact avec validation des champs requis (nom, email, message)
